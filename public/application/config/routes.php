@@ -55,3 +55,4 @@ $route['translate_uri_dashes'] = FALSE;
 
 $route['project'] = 'ProjectController';
 $route['news'] = 'newscontroller'; 
+$route['auth'] = 'auth'; 
